@@ -1,5 +1,4 @@
-### Hi there 👋
-笑死了
+### 以后再更
 
 <!--
 **Vinhood/Vinhood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
